@@ -1,6 +1,6 @@
 {
   "name": "@japan-d2/gcd",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "compute Greatest Common Divisor (GCD)",
   "main": "lib/index.js",
   "type": "lib/index.d.ts",
@@ -13,7 +13,7 @@
   "keywords": ["Math", "Greatest Common Divisor", "GCD"],
   "author": "AOKI Yuto <yuto.aoki@japan-d2.com> (https://japan-d2.com)",
   "homepage": "https://github.com/japan-d2/gcd",
-  "license": "MIT ",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^25.1.2",
     "@types/node": "^13.7.1",
