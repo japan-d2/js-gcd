@@ -1,6 +1,6 @@
 {
   "name": "@japan-d2/gcd",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "compute Greatest Common Divisor (GCD)",
   "main": "lib/index.js",
   "type": "lib/index.d.ts",
