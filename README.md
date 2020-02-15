@@ -30,7 +30,7 @@ console.log(gcd(721, 161))
 
 # methods
 
-## gcd(a, b)
+## gcd(a: number, b: number): number
 
 Return the greatest common divisor of the integers `a` and `b` using Euclid's algorithm.
 
