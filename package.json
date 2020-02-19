@@ -9,14 +9,8 @@
     "build": "tsc -p tsconfig.build.json",
     "prepublishOnly": "npm run build"
   },
-  "files": [
-    "lib"
-  ],
-  "keywords": [
-    "Math",
-    "Greatest Common Divisor",
-    "GCD"
-  ],
+  "files": ["lib"],
+  "keywords": ["Math", "Greatest Common Divisor", "GCD"],
   "author": "AOKI Yuto <yuto.aoki@japan-d2.com> (https://japan-d2.com)",
   "homepage": "https://github.com/japan-d2/js-gcd",
   "license": "MIT",
