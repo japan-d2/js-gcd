@@ -1,6 +1,6 @@
 {
   "name": "@japan-d2/gcd",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "compute Greatest Common Divisor (GCD)",
   "main": "lib/index.js",
   "type": "lib/index.d.ts",
@@ -9,8 +9,14 @@
     "build": "tsc -p tsconfig.build.json",
     "prepublishOnly": "npm run build"
   },
-  "files": ["lib"],
-  "keywords": ["Math", "Greatest Common Divisor", "GCD"],
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "Math",
+    "Greatest Common Divisor",
+    "GCD"
+  ],
   "author": "AOKI Yuto <yuto.aoki@japan-d2.com> (https://japan-d2.com)",
   "homepage": "https://github.com/japan-d2/js-gcd",
   "repository": {
