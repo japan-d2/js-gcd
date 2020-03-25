@@ -106,5 +106,5 @@ dist
 # package lock
 package-lock.json
 
-# dist
-/lib
+# lib
+/lib/
