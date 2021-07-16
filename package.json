@@ -1,9 +1,9 @@
 {
   "name": "@japan-d2/gcd",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "compute Greatest Common Divisor (GCD)",
   "main": "lib/index.js",
-  "type": "lib/index.d.ts",
+  "typings": "lib/index.d.ts",
   "scripts": {
     "test": "jest",
     "build": "tsc -p tsconfig.build.json",
